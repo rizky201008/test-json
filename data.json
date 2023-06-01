@@ -1,0 +1,17 @@
+[
+    {
+        "makanan" : "Sate Ayam",
+        "harga" : "10000",
+        "lokasi" :"Surabaya"
+    },
+    {
+        "makanan" : "Sate Kambing",
+        "harga" : "20000",
+        "lokasi" :"Surabaya"
+    },
+    {
+        "makanan" : "Sate Sapi",
+        "harga" : "30000",
+        "lokasi" :"Surabaya"
+    }
+]
